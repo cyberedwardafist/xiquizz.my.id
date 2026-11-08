@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.xiquizz.com"><b>www.xiquizz.com</b></a>
+  <a href="https://www.xiquizz.my.id"><b>www.xiquizz.my.id</b></a>
 </p>
 
 ---
@@ -81,4 +81,4 @@ Ruang tunggu di layar guru bisa diganti temanya. Tiap lobi punya desain avatar, 
 
 ## Link
 
-[www.xiquizz.com](https://www.xiquizz.com)
+[www.xiquizz.my.id](https://www.xiquizz.my.id)
